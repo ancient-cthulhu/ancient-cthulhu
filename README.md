@@ -24,16 +24,16 @@ I'm a Systems Engineer with a focus on application integration, backend developm
 
 ## 🏆 Key Achievements
 
-- Developed a web app for process automation, used daily by multiple teams with over 2k logins
-- Integrated education platforms for hundreds of universities, managing data for 60,000+ courses
-- Implemented secure SSO services and LTI integrations for improved user experience
-- Designed and managed high-availability database solutions
+- Developed a web app for process automation and data analytics, used daily by multiple teams with over 2.5k logins.
+- Integrated education platforms for hundreds of universities, managing data for 60,000+ courses.
+- Implemented secure SSO services and LTI integrations for improved user experience.
+- Designed and managed high-availability database solutions.
 
 ## 🌱 I'm currently working on
 
-- Enhancing cloud-based solutions for educational institutions
-- Improving API integrations for seamless data flow between systems
-- Exploring new technologies in IoT and process automation
+- AWS, Python and DevOps Certifications.
+- Improving API integrations.
+- Exploring new technologies in IoT and process automation.
 
 ## 📫 How to reach me
 
