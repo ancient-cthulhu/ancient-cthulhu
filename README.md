@@ -2,7 +2,7 @@
 
 ## 💼 Systems Engineer | Software Developer | Cloud Architect
 
-I'm a Systems Engineer with a focus on application integration, backend development, process automation, and cloud architecture. I love leveraging technology to solve complex problems and improve efficiency.
+I'm a Systems Engineer with a focus on application integration, backend development, process automation, and cloud architecture. Passionate about leveraging technology to solve complex problems and improve efficiency.
 
 ## 🚀 Quick Overview
 
