@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Daniel Marquez.
 
-## 💼 Systems Engineer | Backend Developer | Cloud Architect
+## 💼 Systems Engineer | Software Developer | Cloud Architect
 
 I'm a Systems Engineer with a focus on application integration, backend development, process automation, and cloud architecture. I love leveraging technology to solve complex problems and improve efficiency.
 
