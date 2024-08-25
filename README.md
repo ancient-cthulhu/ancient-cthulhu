@@ -4,12 +4,6 @@
 
 I'm a Systems Engineer with a focus on application integration, backend development, process automation, and cloud architecture. Passionate about leveraging technology to solve complex problems and improve efficiency.
 
-## 🚀 Quick Overview
-
-- 🎓 B.Sc. in Systems Engineering (ABET-accredited) from Universidad del Norte
-- 💻 Technical Integration Analyst at Barnes & Noble Education
-- 🔧 Specializing in Python, Cloud Architecture mainly AWS, and API Development
-
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -22,26 +16,9 @@ I'm a Systems Engineer with a focus on application integration, backend developm
 ![Cloud Architecture](https://img.shields.io/badge/-Cloud%20Architecture-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=white)
 ![IoT](https://img.shields.io/badge/-IoT-0A9EDC?style=flat-square&logo=iot&logoColor=white)
 
-## 🏆 Key Achievements
-
-- Developed a web app for process automation and data analytics, used daily by multiple teams with over 2.5k logins.
-- Integrated education platforms for hundreds of universities, managing data for 60,000+ courses.
-- Implemented secure SSO services and LTI integrations for improved user experience.
-- Designed and managed high-availability database solutions.
-
-## 🌱 I'm currently working on
-
-- AWS, Python and DevOps Certifications.
-- Improving API integrations.
-- Exploring new technologies in IoT and process automation.
-
 ## 📫 How to reach me
 
 [LinkedIn](https://www.linkedin.com/in/dgmarquez/) | [Email](mailto:dgmarquez@uninorte.edu.co)
-
-## ⚡ Fun fact
-
-I developed a thesis project on a Web & Android application for long-range monitoring and control of LoRaWAN devices!
 
 ---
 
