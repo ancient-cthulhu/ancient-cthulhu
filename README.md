@@ -21,7 +21,3 @@ I'm a Systems Engineer with a focus on application integration, software develop
 [LinkedIn](https://www.linkedin.com/in/dgmarquez/) | [Email](mailto:dgmarquez@uninorte.edu.co)
 
 ---
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p>
