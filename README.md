@@ -37,7 +37,7 @@ I'm a Systems Engineer with a focus on application integration, backend developm
 
 ## 📫 How to reach me
 
-[LinkedIn](Your LinkedIn URL) | [Email](mailto:dgmarquez@uninorte.edu.co)
+[LinkedIn](https://www.linkedin.com/in/dgmarquez/) | [Email](mailto:dgmarquez@uninorte.edu.co)
 
 ## ⚡ Fun fact
 
