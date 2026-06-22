@@ -1,4 +1,4 @@
-<svg viewBox="0 0 760 200" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','Cascadia Code',ui-monospace,Menlo,Consolas,monospace">
+<svg viewBox="0 0 760 360" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','Cascadia Code',ui-monospace,Menlo,Consolas,monospace">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0B0F14"/>
@@ -47,8 +47,8 @@
     </style>
   </defs>
 
-  <rect width="760" height="200" rx="14" fill="url(#bg)"/>
-  <rect x="0.5" y="0.5" width="759" height="199" rx="14" fill="none" stroke="#1C2630"/>
+  <rect width="760" height="360" rx="14" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="759" height="359" rx="14" fill="none" stroke="#1C2630"/>
 
   <text x="40" y="44" font-size="15" letter-spacing="0.5">
     <tspan fill="#3FB950">root</tspan><tspan fill="#768390">@appsec</tspan><tspan fill="#4FB7FF">:~#</tspan><tspan fill="#E6EDF3"> git commit &amp;&amp; git push</tspan>
@@ -95,4 +95,16 @@
 
   <text x="42" y="146" font-size="15" fill="#9DA7B3" letter-spacing="0.3">Systems Engineer &#183; Veracode CSE</text>
   <text x="42" y="172" font-size="13" fill="#768390" letter-spacing="0.4">DevSecOps &#183; Scripting &#183; Development &#183; AppSec</text>
+
+  <line x1="40" y1="200" x2="720" y2="200" stroke="#1C2630"/>
+  <g font-size="14" letter-spacing="0.2">
+    <text x="40" y="244" fill="#4FB7FF">languages</text>
+    <text x="186" y="244" fill="#ADBAC7">Python &#183; JavaScript &#183; Java</text>
+    <text x="40" y="276" fill="#4FB7FF">ci / cd</text>
+    <text x="186" y="276" fill="#ADBAC7">GitHub &#183; GitLab &#183; Jenkins &#183; Azure DevOps &#183; Bitbucket</text>
+    <text x="40" y="308" fill="#4FB7FF">frameworks</text>
+    <text x="186" y="308" fill="#ADBAC7">Django &#183; React</text>
+    <text x="40" y="340" fill="#4FB7FF">tooling</text>
+    <text x="186" y="340" fill="#ADBAC7">Linux &#183; Bash &#183; PowerShell &#183; SQL &#183; Docker &#183; Git</text>
+  </g>
 </svg>
