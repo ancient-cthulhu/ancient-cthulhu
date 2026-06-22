@@ -51,7 +51,7 @@
   <rect x="0.5" y="0.5" width="759" height="359" rx="14" fill="none" stroke="#1C2630"/>
 
   <text x="40" y="44" font-size="15" letter-spacing="0.5">
-    <tspan fill="#3FB950">root</tspan><tspan fill="#768390">@appsec</tspan><tspan fill="#4FB7FF">:~#</tspan><tspan fill="#E6EDF3"> git commit &amp;&amp; git push</tspan>
+    <tspan fill="#3FB950">ancient-cthulhu</tspan><tspan fill="#768390">@appsec</tspan><tspan fill="#4FB7FF">:~#</tspan><tspan fill="#E6EDF3"> git commit &amp;&amp; git push</tspan>
   </text>
   <rect x="388" y="32" width="9" height="16" fill="#4FB7FF">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
